@@ -1,6 +1,4 @@
-Sara García / 🇵🇹 🇪🇸 
-Porto // 24.05 
-FEUP - L.EIC
+Sara García ✦ 24.05 ✦ 🇵🇹 🇪🇸 ✦ Porto ✦ FEUP - L.EIC
 
 
 <!---
