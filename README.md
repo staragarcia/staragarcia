@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=a9cf67&height=100&section=header&text=Sara%20García&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header image"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=a9cf67&height=100&section=header&text=Sara%20García&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="header image"/>
   <br>
   <img src="https://github.com/laratadelmicro/priv/blob/main/output-onlinegiftools.gif?raw=true" alt="cat gif" width="150"/>
 
