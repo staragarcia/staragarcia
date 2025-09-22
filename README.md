@@ -15,8 +15,8 @@
 ### 🌳 About Me
 
 - 🏡 **From** Porto, Portugal
-- 🎓 **Studying** L.EIC @ FEUP (2nd year)
-- ⚡️ **Working on** surviving the exam season
+- 🎓 **Studying** L.EIC @ FEUP (3rd year)
+- ⚡️ **Working on** staying awake
 
 <p align="center">
 <img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
@@ -63,7 +63,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aindanaotenholinkedin/" target="_blank">
+  <a href="linkedin.com/in/sara-garcía-560a03363" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sage%20Green?style=for-the-badge&logo=linkedin&logoColor=white&color=88B04B" alt="LinkedIn"/>
   </a>
   <a href="mailto:up202306877@up.pt">
