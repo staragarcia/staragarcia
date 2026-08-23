@@ -31,7 +31,11 @@
 </p>
 
 <p align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staragarcia&show_icons=true&theme=merko&locale=en" alt="staragarcia" />
+$\color{red}\textsf{SUPPORT HUMAN ARTISTS! AI ART ISN'T REAL ART!}$
+</p>
+
+<p align="center">
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/03752cf2-bbd0-43fa-9d17-b1f19907b1d7" /><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/e708f436-6b4a-465c-b98a-0e0db511e8a5" /><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/d7b71897-c165-4548-9c8e-f608efa2a7b8" />
 </p>
 
 <p align="center">
