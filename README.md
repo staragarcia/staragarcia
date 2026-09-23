@@ -38,7 +38,7 @@
 
 
 <p align="center">
-  <a href="linkedin.com/in/sara-garcía-560a03363" target="_blank">
+  <a href="https://linkedin.com/in/sara-garcía-560a03363" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sage%20Green?style=for-the-badge&logo=linkedin&logoColor=white&color=88B04B" alt="LinkedIn"/>
   </a>
   <a href="mailto:up202306877@up.pt">
